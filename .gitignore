@@ -1,7 +1,5 @@
-# PyCharm project files
 .idea/*
-
-# repo
 gitignore/*
 data/*
+Pipfile.lock
 
